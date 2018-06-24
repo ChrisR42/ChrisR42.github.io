@@ -1,0 +1,27 @@
+{
+    "title" : "My Playgrounds",
+    "publisherName" : "Chris42",
+    "feedIdentifier" : "io.github.ChrisR42",
+    "contactURL" : "mailto:me@me.com",
+    "formatVersion" : "1.0",
+    "documents" : [
+        {
+            "title" : "Into testing",
+            "overviewSubtitle" : "Subtitle",
+            "detailSubtitle" : "Learn about Apple",
+            "description" : "Description",
+            "contentIdentifier" : "io.github.ChrisR42.first",
+            "contentVerison" : "1.0",
+            "url" : "https://ChrisR42.github.io/First/Into Testing.playgroundbook.zip",
+            "publishedDate" : "2018-06-24-09T18:40:00+00:00",
+            "lastUpdatedDate" : "2018-06-24-09T18:40:00+00:00",
+            "thumbnailURL" : "image.png",
+            "bannerImageURL" :"image.png",
+            "previewImageURL" : [
+                "image.png"
+            ]
+        }
+    ]
+
+
+}
