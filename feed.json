@@ -15,7 +15,7 @@
                                             },
                                             {
                                             "name": "Version:",
-                                            "value": "1.0"
+                                            "value": "2.0"
                                             },
                                             {
                                             "type": "date",
@@ -28,7 +28,7 @@
                                             }
                                             ],
                   "title": "IntoTesting",
-                  "contentVersion": "1.0",
+                  "contentVersion": "2.0",
                   "lastUpdatedDate": "2018-06-14T12:00:00+00:00",
                   "contentIdentifier": "io.github.ChrisR42.first",
                  
