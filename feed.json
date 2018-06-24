@@ -17,11 +17,8 @@
             "lastUpdatedDate" : "2018-06-24-09T18:40:00+00:00",
             "thumbnailURL" : "image.png",
             "bannerImageURL" :"image.png",
-            "previewImageURLs" : [
-                "image.png"
-            ],
+            "previewImageURLs" : [],
         }
     ]
-
 
 }
