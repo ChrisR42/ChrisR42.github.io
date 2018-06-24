@@ -2,8 +2,8 @@
     "documents": [
                   {
                   "previewImageURLs": [],
-                  "bannerImageURL": "https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/DetailsBanner_2x.png",
-                  "thumbnailURL": "https://raw.githubusercontent.com/frogg/Blockchain-Swift-Playground/master/StoreBanner_2x.png",
+                  "bannerImageURL": "image.png",
+                  "thumbnailURL": "image.png",
                   "overviewSubtitle": "Subtitle",
                   "description": "Description",
                   "publishedDate": "2018-06-24T12:00:00+00:00",
